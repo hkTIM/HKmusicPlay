@@ -1,0 +1,13 @@
+platform :ios, '8.0'
+use_frameworks!
+target 'HKmusicPlay' do
+ pod 'MJRefresh'
+ pod 'AFNetworking'
+ pod 'DZNEmptyDataSet'
+ pod 'MJExtension'
+ pod 'SDWebImage'
+ pod 'MBProgressHUD'
+ pod ‘IQKeyboardManager’
+ pod ‘Masonry’
+ pod ‘FMDB’
+end 
